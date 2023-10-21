@@ -5,7 +5,7 @@ export default function Home() {
     <ChatWindow
 
       titleText="Personalized learning assistant"
-      placeholder="Try asking something about the document you just uploaded!  "
+      placeholder="Try asking something about the document you just uploaded!"
     ></ChatWindow>
   );
 }
